@@ -6,9 +6,9 @@
   text-transform: uppercase;
   letter-spacing: 1px;
   color: $code-text-color;
-  border: 5px solid $code-bg-color;
+  border: 5px solid #fff;
   transition: all 0.2s ease;
-  background-color: $code-bg-color;
+  background-color: #fff;
 
   &:focus,
   &:hover {

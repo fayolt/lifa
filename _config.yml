@@ -5,9 +5,6 @@ description: Energy of the future
 baseurl: "/lifa" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-sass:
-    sass_dir: _sass
-
 # SEO PLUGIN
 social:
   name: Kossi Toulassi
@@ -22,7 +19,7 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'About Lifa', link: '/about'}
-  - {name: 'Our Business', link: '/business'}
+  - {name: 'Our Businesses', link: '/business'}
   - {name: 'Sustainability', link: '/sustainability'}
   - {name: 'Career', link: '/career'}
   - {name: 'Investors', link: '/investors'}
