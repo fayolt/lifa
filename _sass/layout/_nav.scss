@@ -14,7 +14,7 @@
     display: flex;
     align-items: center;
     border-bottom: 0;
-
+    text-transform: uppercase;
   }
 
   &.fix-nav {
@@ -177,19 +177,19 @@
       height: 3px;
       width: 100%;
       transform: scaleX(0);
-      background: $link-color;
+      background: $text-color;
       transition: color 0.2s ease-in-out, transform .2s ease-in-out;
     }
 
     &:hover {
-      color: darken($link-color, 20%);
+      color: darken($text-color, 20%);
     }
 
     &:hover::after,
     :active::after,
     :focus::after {
       transform: scaleX(1);
-      color: darken($link-color, 20%);
+      color: darken($text-color, 20%);
       transition: transform .2s ease-in-out;
     }
   }

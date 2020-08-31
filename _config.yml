@@ -18,7 +18,7 @@ social:
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'About Lifa', link: '/about'}
+  - {name: 'About Lifa', link: '/about-lifa'}
   - {name: 'Our Businesses', link: '/business'}
   - {name: 'Sustainability', link: '/sustainability'}
   - {name: 'Career', link: '/career'}
