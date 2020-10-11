@@ -3,11 +3,11 @@ title: Lifa # your site title
 author: Hippolyte-Fayol Toulassi
 description: Energy of the future
 baseurl: "/lifa" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://lifa.co.za" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
-  name: Kossi Toulassi
+  name: Lifa SA
   links:
     - https://twitter.com/BenBalter
     - https://www.facebook.com/ben.balter
