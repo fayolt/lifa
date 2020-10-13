@@ -30,7 +30,7 @@ tagline: >
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
-email: info@zenkosinvestment.com # email for form submission
+email: kossit@lifa.co.za # email for form submission
 
 twitter_username: fayolt # replace with your_twitter_username or comment to remove link from footer
 github_username:  fayolt # replace with your_github_username or comment to remove link from footer
