@@ -10,4 +10,5 @@ categories: sustainability
 # **CLIMATE** CHANGE
 {:center}
 
-The Planet's climate change is a result of the intensification of human activities and the increase of greenhouse gas emissions (GHG). As a consequence, the issue has gained relevance and there are good public and private practices in managing these emissions, a market scenario called Low Carbon Economy. We have invested in increasing our presence in the bioproducts market allowing us to stand out and favor the business's sustainable development, aligning with these new trends that together with our vigorous emissions management has brought opportunities.
+The Planet's climate change is a result of the intensification of human activities and the increase of greenhouse gas emissions (GHG). Therefore, the issue has gained relevance and there are good public and private practices in managing these emissions, a market scenario called Low Carbon Economy. We are increasing our presence in Africa to harness the latent opportunities in renewable energy and gaining access to 
+new trends that together with our vigorous emissions management will bring about greater opportunities.
