@@ -47,6 +47,10 @@ service_worker: true
 markdown: kramdown
 highlighter: rouge # or pygments or null
 # theme: jekyll-sleek # Uncomment if you're using the theme as a ruby gem
+
+sass:
+  sass_dir: _sass
+
 exclude:
   - README.md
   - node_modules
