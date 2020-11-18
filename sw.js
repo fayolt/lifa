@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["/404/index.html","0c657efbcdcfd712cec0e3ab376fe5b4"],["/about/index.html","cd19f1b540246a1e1743c018c9222e1e"],["/assets/css/main.css","73ff5a40cabab1694556be3e13adef75"],["/assets/img/favicon.jpg","ffb9f5c8afdda7fa4f3fd697e5147182"],["/assets/img/icons/android-chrome-192x192.png","4df4c8779d47bcaa69516050281773b9"],["/assets/img/icons/android-chrome-256x256.png","939ec88a61f407945a27d867fca1651d"],["/assets/img/icons/apple-touch-icon.png","366666899d15cf8f6811cc73ee0d63de"],["/assets/img/icons/favicon-16x16.png","f625044491b20a5df78571ba266cbcf6"],["/assets/img/icons/favicon-32x32.png","67502381e45848a4ab76123364675ffe"],["/assets/img/icons/icon-github.svg","4e06335104a29f91e08d4ef420da7679"],["/assets/img/icons/icon-instagram.svg","1e1119e2628235ee4c8771bff15eb2ca"],["/assets/img/icons/icon-twitter.svg","30551913d5399d6520e8a74b6f1e23f0"],["/assets/img/icons/mstile-150x150.png","1cea2ceb806d1a018330a51a1d8b73b6"],["/assets/img/icons/safari-pinned-tab.svg","398ef6b25c0f7f3f6e54c112a8facc5f"],["/assets/img/posts/emile-perron-190221.jpg","4705474281b975b7a213b96e71f772e7"],["/assets/img/posts/emile-perron-190221_lg.jpg","aafe35b1dc6d9dc9293c8c2ef4121046"],["/assets/img/posts/emile-perron-190221_md.jpg","03ed35ed656429599daba312f0990a0f"],["/assets/img/posts/emile-perron-190221_placehold.jpg","67f40708f69ab671cee04d624258b85c"],["/assets/img/posts/emile-perron-190221_sm.jpg","4ce4178a62d5a456e90e7bc47bde50f5"],["/assets/img/posts/emile-perron-190221_thumb.jpg","f20085dfe2e36854f8a12f1fd6c50425"],["/assets/img/posts/emile-perron-190221_thumb@2x.jpg","b8fa22c3237de529316037f093b9cb4d"],["/assets/img/posts/emile-perron-190221_xs.jpg","ac32cbd525d72e932499668af5647d03"],["/assets/img/posts/shane-rounce-205187.jpg","bb774d6e05b2b55ffdabe11a8aac7c56"],["/assets/img/posts/shane-rounce-205187_lg.jpg","83cd838024fff9c3faec59fa1da97872"],["/assets/img/posts/shane-rounce-205187_md.jpg","628cf27bf658cf6de9df79ab9bf2cb2d"],["/assets/img/posts/shane-rounce-205187_placehold.jpg","249fc4a09bcfcbd7d5764f14c14ae82e"],["/assets/img/posts/shane-rounce-205187_sm.jpg","a2400a468e10d7d64528ac9c6bc3b6f0"],["/assets/img/posts/shane-rounce-205187_thumb.jpg","c3b2dd0d95a6d3a44d7702f8c06b1e78"],["/assets/img/posts/shane-rounce-205187_thumb@2x.jpg","b0722b63a92c92a44cd92c0201fc92a4"],["/assets/img/posts/shane-rounce-205187_xs.jpg","cd58fd23f3b3c1de2183beb9ed08327b"],["/assets/img/posts/sleek.jpg","a32252a618ffe8ae57c9ce9ab157a01b"],["/assets/img/posts/sleek_lg.jpg","95a1338aa524727f34950f269133e904"],["/assets/img/posts/sleek_md.jpg","4e35ceb2f5fffd3d758fade699b0b85a"],["/assets/img/posts/sleek_placehold.jpg","0f48050cd7776895b98c6ce21597ff39"],["/assets/img/posts/sleek_sm.jpg","f30af3d30b7df905d962e494750f5da0"],["/assets/img/posts/sleek_thumb.jpg","f7b8a94ac9da8e5ea36bb9e459872400"],["/assets/img/posts/sleek_thumb@2x.jpg","e67e2129dc58a100b98a5e027c964dbc"],["/assets/img/posts/sleek_xs.jpg","c8212cace6d446950556a3bf6efe4520"],["/assets/js/bundle.js","df854a763d7d3fd95381b95081eb822f"],["/categories/index.html","02b986099815b7b5c68eee59ff4eebda"],["/contact/index.html","97bb3b239b650de38bb3a17da3878bdd"],["/getting-started/index.html","2a154f59d239dada3a1d156e52b390e4"],["/index.html","f2b2672b95b1d78662fde8b91af4b743"],["/markdown-cheatsheet/index.html","8651f910f3d436f2e59aa53eaa3c49ef"],["/super-long-article/index.html","d5f5f0af6ca2ae87ead69cff8823ed02"],["/sw.js","cf1b3e3d6b8da4fe588cf5c71c95129a"],["/welcome-to-jekyll/index.html","b5edde946d309f1578f8b646f7e07ed6"]];
+var precacheConfig = [["/404.html","0f0885779bdfe53553edb564313d5fa0"],["/about-lifa/index.html","57a618e0f92720f392b7b15ed22eb444"],["/assets/css/main.css","3794211d724a948dee5e75b41c0b659e"],["/assets/img/favicon.jpg","f997bc2f20fcd3ad544c33a602ee35c4"],["/assets/img/icons/android-chrome-192x192.png","06a794ae211d10ecf0e8f98dfe7eb35f"],["/assets/img/icons/android-chrome-256x256.png","939ec88a61f407945a27d867fca1651d"],["/assets/img/icons/android-chrome-512x512.png","71aa4b9db5479e37f7d77c092734097a"],["/assets/img/icons/apple-touch-icon.png","e106a73bce82447fa049f17e150516f2"],["/assets/img/icons/favicon-16x16.png","4258038d0d3b7f2c253b45d9fddb9fb1"],["/assets/img/icons/favicon-32x32.png","3f9f200209f1aa46b18b6dde854b0c21"],["/assets/img/icons/icon-github.svg","4e06335104a29f91e08d4ef420da7679"],["/assets/img/icons/icon-instagram.svg","1e1119e2628235ee4c8771bff15eb2ca"],["/assets/img/icons/icon-twitter.svg","30551913d5399d6520e8a74b6f1e23f0"],["/assets/img/icons/mstile-150x150.png","1cea2ceb806d1a018330a51a1d8b73b6"],["/assets/img/icons/safari-pinned-tab.svg","398ef6b25c0f7f3f6e54c112a8facc5f"],["/assets/img/logo-bw.png","ac5050ce2872cb7a5a234a175ac6f789"],["/assets/img/logo.jpg","66e4b24e113df60afb0e855944ab540f"],["/assets/img/pages/lifa.png","272156b06712380c1e90bab0ac3681cd"],["/assets/img/pages/lifa_lg.png","88b073f92137a90421ce631423d8857a"],["/assets/img/pages/lifa_md.png","4637465288e5a8efe146954968f0c740"],["/assets/img/pages/lifa_sm.png","4b7c2907930ff81a926e78ba8a1b1892"],["/assets/img/pages/lifa_xl.png","7b3b379f32d217992539a663742c6d9c"],["/assets/img/posts/lifa.png","272156b06712380c1e90bab0ac3681cd"],["/assets/img/posts/lifa_lg.png","88b073f92137a90421ce631423d8857a"],["/assets/img/posts/lifa_md.png","4637465288e5a8efe146954968f0c740"],["/assets/img/posts/lifa_placehold.png","0023cdfb00593f9349cdad0b6955106e"],["/assets/img/posts/lifa_sm.png","34601c167d60e24c347cd9312fce5d01"],["/assets/img/posts/lifa_thumb.png","6d8dc75b0735ee9c6a905599d15fca3c"],["/assets/img/posts/lifa_thumb@2x.png","86420a5bf1ea05e053d84bd8f8885b02"],["/assets/img/posts/lifa_xl.png","7b3b379f32d217992539a663742c6d9c"],["/assets/img/posts/lifa_xs.png","6d8dc75b0735ee9c6a905599d15fca3c"],["/assets/img/posts/sleek.jpg","a32252a618ffe8ae57c9ce9ab157a01b"],["/assets/img/posts/sleek_lg.jpg","95a1338aa524727f34950f269133e904"],["/assets/img/posts/sleek_md.jpg","4e35ceb2f5fffd3d758fade699b0b85a"],["/assets/img/posts/sleek_placehold.jpg","0f48050cd7776895b98c6ce21597ff39"],["/assets/img/posts/sleek_sm.jpg","f30af3d30b7df905d962e494750f5da0"],["/assets/img/posts/sleek_thumb.jpg","f7b8a94ac9da8e5ea36bb9e459872400"],["/assets/img/posts/sleek_thumb@2x.jpg","e67e2129dc58a100b98a5e027c964dbc"],["/assets/img/posts/sleek_xs.jpg","c8212cace6d446950556a3bf6efe4520"],["/assets/js/bundle.js","19a610e176ae1cca2b70109aa9404d06"],["/browsify.js","ae63457385576d746ec69bf76e0838c6"],["/business/index.html","862a8d95a198b3d0adf2f2f651573457"],["/career/index.html","ebb39bc67c4e8ff4c6b62fd4a86c4502"],["/categories/index.html","99e7d0397a832e4bdb1d80b1fe5ab895"],["/chain-responsibility/index.html","63aa8faa201b614fe65325dc89e1e2c2"],["/circular-economy/index.html","3bd818d9c86dfa4393b96ea799100ee6"],["/climate-change/index.html","a34aae57331331d9ff5c6f26511022f1"],["/community-work/index.html","0487685fcce60fdb977f1e52898e8dd8"],["/contact/index.html","efbd69339faf6077d9ed09fea9f69547"],["/energy/index.html","d62f375958330025fd72f9d5be386c3e"],["/ethanol/index.html","9d855f6fda4aeb853fd74c8e693486c3"],["/foundation/index.html","7261ce85e55bf9762174b1fa35b772b7"],["/fuel-distribution/index.html","b6ec7495fdc44f29d839c666739289fc"],["/generate_critical.js","6fd1715aaa5da9efa96a11e0dbe1a28e"],["/gulpfile.babel.js","499ef2edde6e9b4fbafcb7c6f0cbc725"],["/index.html","0701b73d29324d790004a0dd5e278a05"],["/investors/index.html","0e6f3243ce59ae6b5bf1f73599927048"],["/sugar/index.html","170731355ae1e08b1bff64fca48cc960"],["/sustainability/index.html","50afe3865c21e9cc0b7e4c3023d7bddc"],["/sw.js","d81806f72d8563f70448901f8d1572f4"],["/write_sw.js","6af96374717eeb60ecf020076d20bd58"]];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 
 
@@ -45,7 +45,7 @@ var ignoreUrlParametersMatching = [/^utm_/];
 
 
 
-var addDirectoryIndex = function (originalUrl, index) {
+var addDirectoryIndex = function(originalUrl, index) {
     var url = new URL(originalUrl);
     if (url.pathname.slice(-1) === '/') {
       url.pathname += index;
@@ -53,7 +53,7 @@ var addDirectoryIndex = function (originalUrl, index) {
     return url.toString();
   };
 
-var cleanResponse = function (originalResponse) {
+var cleanResponse = function(originalResponse) {
     // If this is not a redirected response, then we don't have to do anything.
     if (!originalResponse.redirected) {
       return Promise.resolve(originalResponse);
@@ -75,7 +75,7 @@ var cleanResponse = function (originalResponse) {
     });
   };
 
-var createCacheKey = function (originalUrl, paramName, paramValue,
+var createCacheKey = function(originalUrl, paramName, paramValue,
                            dontCacheBustUrlsMatching) {
     // Create a new URL object to avoid modifying originalUrl.
     var url = new URL(originalUrl);
@@ -91,7 +91,7 @@ var createCacheKey = function (originalUrl, paramName, paramValue,
     return url.toString();
   };
 
-var isPathWhitelisted = function (whitelist, absoluteUrlString) {
+var isPathWhitelisted = function(whitelist, absoluteUrlString) {
     // If the whitelist is empty, then consider all URLs to be whitelisted.
     if (whitelist.length === 0) {
       return true;
@@ -104,7 +104,7 @@ var isPathWhitelisted = function (whitelist, absoluteUrlString) {
     });
   };
 
-var stripIgnoredUrlParameters = function (originalUrl,
+var stripIgnoredUrlParameters = function(originalUrl,
     ignoreUrlParametersMatching) {
     var url = new URL(originalUrl);
     // Remove the hash; see https://github.com/GoogleChrome/sw-precache/issues/290

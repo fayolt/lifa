@@ -3,6 +3,7 @@ body {
   background-color: $bg-color;
   font-family: $font-stack;
   font-size: 1rem;
+  font-weight: 900;
   line-height: 1.5;
   color: $text-color;
   -webkit-font-smoothing: antialiased;
@@ -17,7 +18,10 @@ body {
 // Reboot
 p {
   margin-top: 0;
-  margin-bottom: 1.25rem;
+  margin-bottom: 1.5rem;
+  font-size: larger;
+  font-weight: normal;
+  text-align: justify;
 }
 
 // Typography

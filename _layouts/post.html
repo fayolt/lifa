@@ -20,12 +20,12 @@ layout: compress
 {% include header.html %}
 
   {% if page.featured-img %}
-  <div class="hero lazyload" data-bg="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{ page.featured-img }}.jpg">
+  <div class="hero lazyload" data-bg="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{ page.featured-img }}">
   {% else %}
   <div class="hero dark-bg">
   {% endif %}
     <div class="hero__wrap">
-      <h1 class="hero__title">{{ page.title }}</h1>
+      <h1 class="hero__title">{{ page.title | escape | upcase }}</h1>
     </div>
   </div>
 
@@ -67,21 +67,6 @@ layout: compress
         </div>
       </div>
     </div>
-
-    {% if site.disqus.shortname %}
-
-    <div class="comments">
-      <div class="container">
-        <div class="post-content">
-
-          {% include disqus.html %}
-
-        </div>
-      </div>
-    </div>
-
-    {% endif %}
-
   </main>
 
   {% include footer.html %}

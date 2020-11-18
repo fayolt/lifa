@@ -6,5 +6,5 @@
 #
 layout: default
 title: Lifa
-hero_img: posts/sleek_lg.jpg
+hero_img: pages/lifa_xl.png
 ---
