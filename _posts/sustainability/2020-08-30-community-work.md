@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Community Work
-featured-img: lifa
+featured-img: community
 mathjax: true
 categories: sustainability
 ---

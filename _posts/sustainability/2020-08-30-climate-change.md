@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Climate Change
-featured-img: lifa
+featured-img: climate-change
 mathjax: true
 categories: sustainability
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Circular Economy
-featured-img: lifa
+featured-img: power-plant
 mathjax: true
 categories: sustainability
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chain Responsibility
-featured-img: lifa
+featured-img: harvester
 mathjax: true
 categories: sustainability
 ---
