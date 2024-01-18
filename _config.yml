@@ -3,7 +3,7 @@ title: Lifa # your site title
 author: Hippolyte-Fayol Toulassi
 description: Energy of the future
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://fayolt.github.io/lifa/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://fayolt.github.io/lifa" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
